@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FoodieTrip</string>
+    <string name="app_name">FoodieTrip 2</string>
+    <string name="hello">Hello World!\n你好！這世界超棒！</string>
 </resources>
